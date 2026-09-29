@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<details><summary><h1 style="margin-top: -30px; margin-left: 15px">Getting Started with Create React App</h1></summary>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,8 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+</details>
+
+<details><summary><h2 style="margin-top: -25px; margin-left: 15px">Learn more</h2></summary>
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+</details>
